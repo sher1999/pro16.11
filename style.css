@@ -1,0 +1,141 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.container{
+    height: 100vh;
+    background-color: #356A9F;
+}
+
+.center{
+    width: 60%;
+    margin: auto;
+}
+fieldset{
+    color: white;
+    height: 70vh;
+}
+legend{
+    margin-left: 10px;
+    font-size: 18px;
+}
+.main{
+    display: flex;
+}
+.left{ 
+   
+    width: 30%;
+}
+.left{
+    
+    text-align: right;
+    margin-right: 20px;
+   
+}
+
+
+.right{
+width: 60%;
+}
+
+.mar{
+    margin-top: 25px;
+}
+
+.mar2 input{
+   
+    padding: 5px 0px;
+    margin-top: 35px;
+    width: 70%;
+}
+
+ .left label{
+    font-size: 18px;
+    line-height: 40px;
+}
+.int input{
+    margin-top: 30px;
+   width: 70%;
+   padding: 5px 0px;
+}
+.mar3{
+    margin-top: 35px;
+}
+.mar3 select{
+    padding: 5px 0px;
+    width: 40%;
+}
+
+.mar4{
+   
+    display: flex;
+    width: 100%;
+}
+.chap{
+    width: 30%;
+    margin-top: 35px;
+}
+.chap select{
+    padding: 5px 0px;
+    width: 90%;
+}
+.rost{
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.rost input{
+    margin: 0px 10px;
+}
+.rost label{
+    font-size: 18px;
+}
+.mar5{
+    margin-top: 35px;
+}
+.mar5 input{
+    padding: 5px 0px;
+    width: 10%;
+    
+}
+.mar5 label{
+    font-size: 18px;
+    margin-left: 5px;
+    margin-right: 20px;
+}
+.mar6{
+    margin-top: 35px;
+}
+.mar6 input{
+    padding: 5px 0px;
+    width: 10%;    
+}
+.mar6 label{
+    font-size: 18px;
+    margin-left: 5px;
+    margin-right: 20px;
+}
+
+.mar7{
+    margin-top: 35px;
+}
+.mar7 input{
+    padding: 5px 0px;
+    width: 70%;
+}
+.step{
+    justify-content: center;
+    display: flex;
+    margin-top: 10px;
+}
+.step a{
+    margin: 0px 5px;
+    
+}
+.step a i{
+    color: #8CAB1D;
+    font-size: 20px;
+}
+.step p{
+    color: white;
+    
+}
